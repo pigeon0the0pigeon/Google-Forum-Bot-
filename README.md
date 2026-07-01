@@ -1,6 +1,8 @@
 This bot pretty much is just to fill surveys, if you have an assignment you need to finish fast and need actual people to respond to your survey this bot is for you.
 NOTE: Claude AI did 90% of the dev work I am only a noob.
 
+IMPORTANT: The survey must have email collection off and must be a multiple choice survey with only the name box as a text box the rest must be multiple choice or the bot will fill every text box with a random name.
+
 This code was already precompiled and the exe is in the releases tab, however if you do wish to run it by yourself the requirments are as follows:
 
 Python 3.10+
